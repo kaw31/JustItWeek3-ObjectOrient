@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex3_Inheritance_Cars\Ex3_Inheritance_Cars\bin\Debug\Ex3_Inheritance_Cars.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex3_Inheritance_Cars\Ex3_Inheritance_Cars\bin\Debug\Ex3_Inheritance_Cars.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex3_Inheritance_Cars\Ex3_Inheritance_Cars\bin\Debug\Ex3_Inheritance_Cars.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex3_Inheritance_Cars\Ex3_Inheritance_Cars\obj\Debug\Ex3_Inheritance_Cars.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex3_Inheritance_Cars\Ex3_Inheritance_Cars\obj\Debug\Ex3_Inheritance_Cars.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex3_Inheritance_Cars\Ex3_Inheritance_Cars\obj\Debug\Ex3_Inheritance_Cars.csprojResolveAssemblyReference.cache

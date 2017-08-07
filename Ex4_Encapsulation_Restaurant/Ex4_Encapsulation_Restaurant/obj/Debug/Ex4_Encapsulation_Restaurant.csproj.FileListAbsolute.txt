@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex4_Encapsulation_Restaurant\Ex4_Encapsulation_Restaurant\bin\Debug\Ex4_Encapsulation_Restaurant.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex4_Encapsulation_Restaurant\Ex4_Encapsulation_Restaurant\bin\Debug\Ex4_Encapsulation_Restaurant.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex4_Encapsulation_Restaurant\Ex4_Encapsulation_Restaurant\bin\Debug\Ex4_Encapsulation_Restaurant.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex4_Encapsulation_Restaurant\Ex4_Encapsulation_Restaurant\obj\Debug\Ex4_Encapsulation_Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex4_Encapsulation_Restaurant\Ex4_Encapsulation_Restaurant\obj\Debug\Ex4_Encapsulation_Restaurant.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex4_Encapsulation_Restaurant\Ex4_Encapsulation_Restaurant\obj\Debug\Ex4_Encapsulation_Restaurant.pdb

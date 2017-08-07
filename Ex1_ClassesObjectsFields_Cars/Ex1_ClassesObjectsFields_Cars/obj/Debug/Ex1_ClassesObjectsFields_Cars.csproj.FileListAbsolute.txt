@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex1_ClassesObjectsFields_Cars\Ex1_ClassesObjectsFields_Cars\bin\Debug\Ex1_ClassesObjectsFields_Cars.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex1_ClassesObjectsFields_Cars\Ex1_ClassesObjectsFields_Cars\bin\Debug\Ex1_ClassesObjectsFields_Cars.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex1_ClassesObjectsFields_Cars\Ex1_ClassesObjectsFields_Cars\bin\Debug\Ex1_ClassesObjectsFields_Cars.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex1_ClassesObjectsFields_Cars\Ex1_ClassesObjectsFields_Cars\obj\Debug\Ex1_ClassesObjectsFields_Cars.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex1_ClassesObjectsFields_Cars\Ex1_ClassesObjectsFields_Cars\obj\Debug\Ex1_ClassesObjectsFields_Cars.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex1_ClassesObjectsFields_Cars\Ex1_ClassesObjectsFields_Cars\obj\Debug\Ex1_ClassesObjectsFields_Cars.pdb
